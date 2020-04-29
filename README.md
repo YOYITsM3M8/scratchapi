@@ -1,4 +1,5 @@
 # scratchapi #
+[![Run on Repl.it](https://repl.it/badge/github/Yoyitsm3m8/scratchapi)](https://repl.it/github/Yoyitsm3m8/scratchapi)
 scratchapi is a web API interface for [Scratch](https://scratch.mit.edu), written in [Python](https://www.python.org/).
 
 To get started, install it via pip by running `pip install scratchapi`   
